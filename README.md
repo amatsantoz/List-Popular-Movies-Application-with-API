@@ -6,4 +6,4 @@ Aplikasi ini adalah final project untuk course Mobile Programming Menggunakan Re
 
 Aplikasi ini dibuat dengan bahasa pemrograman JavaScript dan Framework React Native
 
-Aplikasi dapat di Download di https://github.com/amatsantoz/List-Popular-Movies-Application-with-API/raw/main/List%20Popular%20Movies.%20%5Bwith%20API%5D.apk
+Aplikasi dapat di Download di [SINI](https://github.com/amatsantoz/List-Popular-Movies-Application-with-API/raw/main/List%20Popular%20Movies.%20%5Bwith%20API%5D.apk).
