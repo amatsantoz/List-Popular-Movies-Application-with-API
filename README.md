@@ -10,3 +10,7 @@ Aplikasi dapat di Download di [SINI](https://github.com/amatsantoz/List-Popular-
 
 #### Berikut Tampilan Aplikasinya
 
+ ![Sign Up](https://github.com/amatsantoz/List-Popular-Movies-Application-with-API/blob/main/List%20Popular%20Movies/1.jpg)
+ ![Home](https://github.com/amatsantoz/List-Popular-Movies-Application-with-API/blob/main/List%20Popular%20Movies/2.jpg)
+ ![Detail](https://github.com/amatsantoz/List-Popular-Movies-Application-with-API/blob/main/List%20Popular%20Movies/3.jpg)
+ ![About](https://github.com/amatsantoz/List-Popular-Movies-Application-with-API/blob/main/List%20Popular%20Movies/4.jpg)
